@@ -15,4 +15,4 @@
 
 ## Диаграмма
 ---
-
+<img width="986" alt="diagram" src="https://github.com/Dalulaana/patterns_project/assets/125021902/1e0a1c1f-7992-4f5c-8425-cecad5dadefd">
